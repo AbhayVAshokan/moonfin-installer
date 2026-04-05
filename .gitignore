@@ -1,0 +1,9 @@
+# Certificate files - These should not be committed to version control
+# as they contain private keys and are specific to each developer
+author.p12
+distributor.p12
+profiles.xml
+
+# OS generated files
+.DS_Store
+.DS_Store?
